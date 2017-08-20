@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">easyStats</string>
+    <string name="action_graph">График</string>
+    <string name="action_data">Данные</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="privet">Прівєт!</string>
+    <string name="app_ver">ver: 0.1.4 &#169; R.K.</string>
+    <string name="title_activity_graph">График распределения</string>
+    <string name="title_activity_graph_bar">Graph</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
